@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0193/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0193/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清太一帝君太丹隱書解胞十二結節圖訣
+  date: '2015-08-29 02:59:47.668060'
+  source:
+    repository: kanripo
+    path: KR5g0193
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0193_000-HFL.yaml, hash: 'sha256:eb7822e5156a7b7887f8ce670fc37e4ea302a94d15a64f4aff972b85d66593c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0193_000-HFL.markers.yaml, hash: 'sha256:0004de6002a9fc9215be2243383532179a3e9043dd9ec7aa4fb9319a038abd01'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0193_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 2376
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:265dadbb27845bea9cafb815663ffee9457de3b867cb5f7ec0110c9e552d09e9

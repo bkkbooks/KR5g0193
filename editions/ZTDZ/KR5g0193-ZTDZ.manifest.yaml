@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0193/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0193/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清太一帝君太丹隱書解胞十二結節圖訣
+  date: '2015-08-29 02:59:47.668060'
+  source:
+    repository: kanripo
+    path: KR5g0193
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0193_000-ZTDZ.yaml, hash: 'sha256:12e6ce4166010807ea78b37bd0809935f62aa0d64016748560f17e036091d471'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0193_000-ZTDZ.markers.yaml, hash: 'sha256:4adc3ef054366761a88ec4385424e9057f5769c223c01873e315f4c64056533a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0193_SJB_000-340096a
+    span:
+    - body
+    - 0
+    - 2376
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:eb075c719058c9405765f29c9ee1ce6e9842d7595f2ea0ad1cc72e332aa4b2db
