@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5g0193/v1
 canonical_location: https://kanripo.org/bkk/KR5g0193/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 上清太一帝君太丹隱書解胞十二結節圖訣
   identifiers:
@@ -32,9 +32,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5g0193_000.yaml, hash: 'sha256:370853812db34011e0d430aa4d5e35da10d39464ed32d27cd209dd42e555ab9a'}
+  - {seq: 0, filename: KR5g0193_000.yaml, hash: 'sha256:06fe345844ac8833db64b6ed2b42065cda149713e0885749009416ba491ecd8d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5g0193_000.markers.yaml, hash: 'sha256:cedff914d65634b3b66b4cfd315b6299ce9d836f1e2e6f9c07ad74c60f3737db'}
+  - {seq: 0, role: markers, filename: assets/KR5g0193_000.markers.yaml, hash: 'sha256:7a2606d30acfa1ad3637124856eabdc16ae7400203dd9dcfa8c273d44d3a5c27'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:f7853b6fc5879e0224dd6e7005aaaea0fb01ac3808c86fa9a5945bb773db0415
+hash: sha256:b2dc905e09e5c1cfb8a953d75fd5a54c57bb1ef51070a3018b3db67728a10c30
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
